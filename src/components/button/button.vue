@@ -1,6 +1,6 @@
 <template>
   <button
-    class="cube-btn"
+    class="cube-btn
     :type="type"
     :class="btnClass"
     @click="handleClick">
